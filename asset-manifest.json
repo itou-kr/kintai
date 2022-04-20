@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/kintai/static/js/main.6233f0e0.js",
+    "index.html": "/kintai/index.html",
+    "main.6233f0e0.js.map": "/kintai/static/js/main.6233f0e0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6233f0e0.js"
+  ]
+}
